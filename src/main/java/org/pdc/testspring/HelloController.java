@@ -6,8 +6,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class HelloController {
-    @GetMapping("Hello")
+    @GetMapping("hello")
     public String hello(Model model) {
         return "/view/hello.html";
+    }
+    @GetMapping("hello-spring")
+    public String hello_string(Model model){
+        return "/view/hello-spring.html";
     }
 }

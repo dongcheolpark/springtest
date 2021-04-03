@@ -2,3 +2,9 @@ org/pdc/testspring/TestspringApplication.java
  org.pdc.testspring.TestspringApplication
 org/pdc/testspring/HelloController.java
  org.pdc.testspring.HelloController
+org/pdc/repository/MemoryMemberRepository.java
+ org.pdc.repository.MemoryMemberRepository
+org/pdc/domain/Member.java
+ org.pdc.domain.Member
+org/pdc/repository/MemberRepository.java
+ org.pdc.repository.MemberRepository

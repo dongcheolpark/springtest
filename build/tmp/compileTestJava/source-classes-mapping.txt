@@ -1,2 +1,4 @@
 org/pdc/testspring/TestspringApplicationTests.java
  org.pdc.testspring.TestspringApplicationTests
+org/pdc/testspring/repository/MemoryMemberRepositoryTest.java
+ org.pdc.testspring.repository.MemoryMemberRepositoryTest
